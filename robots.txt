@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yykirorodrate.github.io/cn-zhcn-9y-com/sitemap.xml
